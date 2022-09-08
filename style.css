@@ -1,1 +1,30 @@
-# tugas2
+#gambar {
+  width:100%;
+  padding:0;
+  margin:0;
+  position:relative;
+}
+
+#teks{
+  position:absolute;
+  top:50px;
+  left:100px;
+  color:rgb(109, 18, 18);
+}
+
+body, html {
+    padding: 0;
+    margin: 0;
+    height: 206vh;
+    width: 206vh;
+  }
+
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+  }
+
+  li {
+    width: 30%;
+  }
