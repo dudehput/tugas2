@@ -7,9 +7,11 @@
 
 #teks{
   position:absolute;
-  top:50px;
-  left:100px;
-  color:rgb(109, 18, 18);
+
+  top:50%;
+  width:100%;
+  text-align: center;
+  color:rgb(198, 57, 57);
 }
 
 body, html {
